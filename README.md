@@ -20,5 +20,5 @@ Hello World!
 # EXPORT
 
 ```console
-$ vagrant package --output vagrant-solaris-cpp
+$ vagrant package --output vagrant-solaris-cpp.box
 ```
